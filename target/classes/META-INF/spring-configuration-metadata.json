@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "conf",
+      "type": "ru.gypsyjr.main.Config",
+      "sourceType": "ru.gypsyjr.main.Config"
+    }
+  ],
+  "properties": [
+    {
+      "name": "conf.referrer",
+      "type": "java.lang.String",
+      "sourceType": "ru.gypsyjr.main.Config"
+    },
+    {
+      "name": "conf.sites-name",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "ru.gypsyjr.main.Config"
+    },
+    {
+      "name": "conf.sites-url",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "ru.gypsyjr.main.Config"
+    },
+    {
+      "name": "conf.user-agent",
+      "type": "java.lang.String",
+      "sourceType": "ru.gypsyjr.main.Config"
+    }
+  ],
+  "hints": []
+}
